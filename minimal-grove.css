@@ -1,0 +1,23 @@
+#logo {
+  display:none;
+}
+
+#channels {
+  top: -2px!important;
+}
+
+#profile{
+  display: none;
+}
+
+#footer {
+  display:none;
+}
+
+.message-create .input-wrapper{
+  right: 32px!important;
+}
+
+.message-create input[type=submit]{
+  display: none!important;
+}
